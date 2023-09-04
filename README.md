@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eugene Jose Pushpa G</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
-- 🌱 I’m currently learning **Python, Flask and C++**
+- 🌱 I’m currently learning **Python, Flask and Java**
 
-- 💬 Ask me about **Python and C++**
+- 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **eugenegjose@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
