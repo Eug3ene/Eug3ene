@@ -8,7 +8,7 @@
 - 📫 How to reach me **eugenegjose@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
+[![Twitter URL]([https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white])]([https://twitter.com/eug3ne_jose])
 <p align="left">
 </p>
 
